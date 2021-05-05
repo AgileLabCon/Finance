@@ -2,12 +2,12 @@
   Trusted, transparent and portable swap transactions between parties in any marketplace
 </h3>
 <p align="center">
-  Bondly is an open source peer-to-peer cryptocurrency exchange tool that focuses
+  AgileLabCon is an open source peer-to-peer cryptocurrency exchange tool that focuses
   on portability, ease of use, and economic efficiency.
 </p>
 <p align="center">
   <a href="https://github.com/bondly/bondly-finance/blob/develop/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Bondly is
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="AgileLabCon is
     released under the MIT license." />
   </a>
   <a href="https://bondly.finance">
@@ -23,13 +23,13 @@
 
 - **Versatile.** Share escrow-based transactions through any medium.
 
-- **Interoperable.** Bondly enables transactions across many chains.
+- **Interoperable.** AgileLabCon enables transactions across many chains.
 
-- **Innovative.** Connect Bondly to your marketplace and create trusted transactions between vendors and customers.
+- **Innovative.** Connect AgileLabCon to your marketplace and create trusted transactions between vendors and customers.
 
 <p align="center">
   <a href="https://bondly.finance">
-    <b>Learn more about Bondly here.</b>
+    <b>Learn more about AgileLabCon here.</b>
   </a>
 </p>
 
@@ -50,10 +50,10 @@ information.
 ## How to Contribute
 
 Regardless of how you seek to contribute, we'd love to have you as part of the
-Bondly developer community!
+AgileLabCon developer community!
 
 Check out our [Developer Community Discord](https://discord.com/invite/94BCJg)
-for more information about contributing to Bondly.
+for more information about contributing to AgileLabCon.
 
 ## License
 
