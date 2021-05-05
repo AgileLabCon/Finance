@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://bondly.finance">
-    <img alt="Bondly" src="bondly.png" width="240" />
-  </a>
-</p>
 <h3 align="center">
   Trusted, transparent and portable swap transactions between parties in any marketplace
 </h3>
